@@ -27,7 +27,7 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 - 🏆 **Hackathons & Competitions:** Actively building in the community. Participated in **HackHCMC Hackathon 2024** and joined **TDTU Recursion** twice.
 - 🔍 **Open Source Enthusiast:** I regularly dive into the open-source ecosystem by studying large-scale, enterprise-level codebases (like Ant Design, Grafana, and Sentry) to understand underlying architectures and level up my system design skills.
 - ⚡ **Continuous Learning:** In my free time, I solve algorithmic challenges on platforms like LeetCode, HackerRank, Codeforces, and read tech articles on dev.to and Medium.
-- 🌱 Currently exploring: Technical Content Writing and you can find me on https://dev.to/namsfbug
+- 🌱 Currently exploring: Technical Content Writing and AI-driven development.
 - 📫 How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dnnam5284238) 
   [![Dev.to Badge](https://img.shields.io/badge/-Nam_RGBA-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/nam-rgba)
@@ -57,6 +57,15 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nam-rgba&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nam-rgba&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-rgba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="400"/>
+  <img src="profile-summary-card-output/radical/1-repo-stars.svg" alt="Repo Stars" width="400"/>
+  <br/>
+  <img src="profile-summary-card-output/radical/2-commits-history.svg" alt="Commits History" width="400"/>
+  <img src="profile-summary-card-output/radical/3-productive-time.svg" alt="Productive Time" width="400"/>
+</div>
