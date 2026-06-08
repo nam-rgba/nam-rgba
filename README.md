@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-    <a href="www.linkedin.com/in/dnnam5284238">
+    <a href="https://www.linkedin.com/in/dnnam5284/">
       <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&color=blueviolet">
     </a>
-    <a href="https://dev.to/nam-rgba">
+    <a href="https://dev.to/namsfbug">
       <img alt="Dev.to Badge" src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=flat&logo=dev.to&logoColor=white">
     </a>
     <img src="https://komarev.com/ghpvc/?username=nam-rgba&style=flat-square&color=blueviolet" alt=""/>
@@ -27,10 +27,10 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 - 🏆 **Hackathons & Competitions:** Actively building in the community. Participated in **HackHCMC Hackathon 2024** and joined **TDTU Recursion** twice.
 - 🔍 **Open Source Enthusiast:** I regularly dive into the open-source ecosystem by studying large-scale, enterprise-level codebases (like Ant Design, Grafana, and Sentry) to understand underlying architectures and level up my system design skills.
 - ⚡ **Continuous Learning:** In my free time, I solve algorithmic challenges on platforms like LeetCode, HackerRank, Codeforces, and read tech articles on dev.to and Medium.
-- 🌱 Currently exploring: Technical Content Writing and AI-driven development.
+- 🌱 Currently exploring: Technical Content Writing and you can find me on https://dev.to/namsfbug.
 - 📫 How to reach me: 
-  [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dnnam5284238) 
-  [![Dev.to Badge](https://img.shields.io/badge/-Nam_RGBA-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/nam-rgba)
+  [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dnnam5284/) 
+  [![Dev.to Badge](https://img.shields.io/badge/-Nam_RGBA-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/namsfbug)
 
 ---
 
@@ -47,11 +47,10 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>
+
 </div>
 
 ---
