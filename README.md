@@ -58,11 +58,11 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 
 ### 🔥 My Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nam-rgba&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nam-rgba&theme=github&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="800"/>
+  <img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" width="800"/>
 
 </div>
