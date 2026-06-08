@@ -63,9 +63,6 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 <br/>
 
 <div align="center">
-  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="400"/>
-  <img src="profile-summary-card-output/radical/1-repo-stars.svg" alt="Repo Stars" width="400"/>
-  <br/>
-  <img src="profile-summary-card-output/radical/2-commits-history.svg" alt="Commits History" width="400"/>
-  <img src="profile-summary-card-output/radical/3-productive-time.svg" alt="Productive Time" width="400"/>
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="800"/>
+
 </div>
