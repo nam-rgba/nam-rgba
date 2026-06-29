@@ -9,6 +9,9 @@
     <a href="https://dev.to/namsfbug">
       <img alt="Dev.to Badge" src="https://img.shields.io/badge/DEV_Community-0A0A0A?style=flat&logo=dev.to&logoColor=white">
     </a>
+    <a href="https://www.npmjs.com/~docngam">
+      <img alt="npm Badge" src="https://img.shields.io/badge/npm-%23000000?style=flat&logo=npm&logoColor=white">
+    </a>
     <img src="https://komarev.com/ghpvc/?username=nam-rgba&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
@@ -28,9 +31,11 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 - 🔍 **Open Source Enthusiast:** I regularly dive into the open-source ecosystem by studying large-scale, enterprise-level codebases (like Ant Design, Grafana, and Sentry) to understand underlying architectures and level up my system design skills.
 - ⚡ **Continuous Learning:** In my free time, I solve algorithmic challenges on platforms like LeetCode, HackerRank, Codeforces, and read tech articles on dev.to and Medium.
 - 🌱 Currently exploring: Technical Content Writing and you can find me on https://dev.to/namsfbug.
+- 📦 Check my npm libraries and tools at https://www.npmjs.com/~docngam.
 - 📫 How to reach me: 
   [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dnnam5284/) 
   [![Dev.to Badge](https://img.shields.io/badge/-Nam_RGBA-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/namsfbug)
+  [![npm Badge](https://img.shields.io/badge/-docngam-%23000000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~docngam)
 
 ---
 
