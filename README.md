@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Web Developer with a strong focus on building robust, scalable applications. My core advantage lies in a deep understanding of **JavaScript, TypeScript, and Node.js**, alongside a strong adherence to clean architecture (such as Repository and Factory patterns) and professional best practices. 
+I am a Web Developer with a strong focus on building robust, scalable applications. My core advantage lies in a deep understanding of **JavaScript, TypeScript, and Node.js**, alongside a strong adherence to clean architecture (such as Repository and Factory patterns) and professional best practices.
 
 - 🔭 I’m working as a Software Engineer, crafting seamless frontend experiences while expanding my expertise in complex backend engineering.
 - 🏆 **Hackathons & Competitions:** Actively building in the community. Participated in **HackHCMC Hackathon 2024** and joined **TDTU Recursion** twice.
@@ -32,14 +32,15 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 - ⚡ **Continuous Learning:** In my free time, I solve algorithmic challenges on platforms like LeetCode, HackerRank, Codeforces, and read tech articles on dev.to and Medium.
 - 🌱 Currently exploring: Technical Content Writing and you can find me on https://dev.to/namsfbug.
 - 📦 Check my npm libraries and tools at https://www.npmjs.com/~docngam.
-- 📫 How to reach me: 
-  [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dnnam5284/) 
+- 📫 How to reach me:
+  [![Linkedin Badge](https://img.shields.io/badge/-Nam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dnnam5284/)
   [![Dev.to Badge](https://img.shields.io/badge/-Nam_RGBA-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/namsfbug)
   [![npm Badge](https://img.shields.io/badge/-docngam-%23000000?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~docngam)
 
 ---
 
 ### 🛠️ Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -61,12 +62,8 @@ I am a Web Developer with a strong focus on building robust, scalable applicatio
 ---
 
 ### 🔥 My Stats :
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nam-rgba&theme=github&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-
-<div align="center">
-  <img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" width="800"/>
-
-</div>
