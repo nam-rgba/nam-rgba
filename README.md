@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Web Developer with a strong focus on building robust, scalable applications. My core advantage lies in a deep understanding of **JavaScript, TypeScript, and Node.js**, alongside a strong adherence to clean architecture (such as Repository and Factory patterns) and professional best practices.
+I am a Web Developer with a strong focus on building robust, scalable applications. My core advantage lies in a deep understanding of **JavaScript, TypeScript, and Node.js**, alongside a strong adherence to clean architecture and professional best practices.
 
 - 🔭 I’m working as a Software Engineer, crafting seamless frontend experiences while expanding my expertise in complex backend engineering.
 - 🏆 **Hackathons & Competitions:** Actively building in the community. Participated in **HackHCMC Hackathon 2024** and joined **TDTU Recursion** twice.
